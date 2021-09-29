@@ -11,14 +11,6 @@
   --transparent-white : hsla(0, 0%, 100%, 0.75); /* (paragraphs) */
   --very-light-gray   : hsl(0, 0%, 95%);         /* (background, headings, buttons) */
 }
-
-.attribution {
-   font-size: 11px;
-   text-align: center;
- }
- .attribution a {
-   color: hsl(228, 45%, 44%);
- }
     
 body {
    background-color: var(--very-light-gray);
